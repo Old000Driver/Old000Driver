@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Jianan Gong, a front-end developer with 5 years of experience, specializing in Web2 and Web3 technologies.
-I’m skilled in Vue, React, Next.js, TypeScript, and Web3 tools like Ether.js and Wagmi.
-I’ve led front-end development for major projects like the Bank of Communications cross-bank cloud project.
-My personal projects include an uniswap deapp, a Trello clone, and more.
-Check out my GitHub to explore my work!
+I’m Jianan Gong, a front-end developer with 5 years of experience, specializing in Web2 and Web3 technologies.  
+I’m skilled in Vue, React, Next.js, TypeScript, and Web3 tools like Ether.js and Wagmi.  
 
+I’ve led front-end development for major projects like the Bank of Communications cross-bank cloud project.  
+My personal projects include an uniswap deapp, a Trello clone, and more.  
 
+Check out my GitHub to explore my work!  
 
 ![Snake animation](https://github.com/Old000Driver/Old000Driver/blob/output/github-snake-dark.svg)
-
