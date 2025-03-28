@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/dc3a8441-8efc-4bbe-b535-f28a192ae728)## Hi there 👋
 
 <!--
 **Old000Driver/Old000Driver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,6 @@ I’m skilled in Vue, React, Next.js, TypeScript, and Web3 tools like Ether.js a
 I’ve led front-end development for major projects like the Bank of Communications cross-bank cloud project.
 My personal projects include an uniswap deapp, a Trello clone, and more.
 Check out my GitHub to explore my work!
+
+
+![Snake animation](https://github.com/Old000Driver/Old000Driver/blob/output/dist/github-snake.svg)
