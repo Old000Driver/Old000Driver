@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8eb870d3-ab77-40c3-9b71-bf9ad821f687)## Hi there 👋
+## Hi there 👋
 
 <!--
 **Old000Driver/Old000Driver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
