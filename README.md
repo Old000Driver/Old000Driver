@@ -22,4 +22,4 @@ My personal projects include an uniswap deapp, a Trello clone, and more.
 Check out my GitHub to explore my work!
 
 
-![Snake animation](https://github.com/Old000Driver/Old000Driver/blob/output/dist/github-snake.svg)
+![Snake animation]([https://github.com/Old000Driver/Old000Driver/blob/output/dist/github-snake.svg](https://github.com/Old000Driver/Old000Driver/blob/output/github-snake-dark.svg))
