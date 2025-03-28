@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dc3a8441-8efc-4bbe-b535-f28a192ae728)## Hi there 👋
+![image](https://github.com/user-attachments/assets/8eb870d3-ab77-40c3-9b71-bf9ad821f687)## Hi there 👋
 
 <!--
 **Old000Driver/Old000Driver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,4 @@ My personal projects include an uniswap deapp, a Trello clone, and more.
 Check out my GitHub to explore my work!
 
 
-[![Snake animation](https://github.com/Old000Driver/Old000Driver/blob/output/dist/github-snake.svg)](https://raw.githubusercontent.com/Old000Driver/Old000Driver/6a77039a59a7d67900e5f6b0980885307e200e03/github-snake.svg)
+![Snake animation](https://github.com/Old000Driver/Old000Driver/blob/output/dist/github-snake.svg)
