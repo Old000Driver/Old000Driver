@@ -23,6 +23,5 @@ Check out my GitHub to explore my work!
 
 
 
-([https://github.com/your-username/your-username/blob/output/dist/github-snake.svg](https://github.com/Old000Driver/Old000Driver/blob/output/github-snake-dark.svg
-))
+![Snake animation](https://github.com/Old000Driver/Old000Driver/blob/output/github-snake-dark.svg)
 
